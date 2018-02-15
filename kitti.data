@@ -1,0 +1,5 @@
+classes= 8
+train  = vehicle_train.txt
+valid  = vehicle_test.txt  
+names = vehicle.names  
+backup = backip
